@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #include "soundOscillatorRectangle.h"
 
 #include "mathConstants.h"

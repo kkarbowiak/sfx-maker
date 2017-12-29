@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef AUDIO_CONFIGURATION_H__DDK
 #define AUDIO_CONFIGURATION_H__DDK
 

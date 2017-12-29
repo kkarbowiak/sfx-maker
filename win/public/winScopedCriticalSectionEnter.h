@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef WIN_SCOPED_CRITICAL_SECTION_ENTER_H__DDK
 #define WIN_SCOPED_CRITICAL_SECTION_ENTER_H__DDK
 

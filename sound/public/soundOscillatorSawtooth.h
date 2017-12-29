@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef SOUND_OSCILLATOR_SAWTOOTH_H__DDK
 #define SOUND_OSCILLATOR_SAWTOOTH_H__DDK
 

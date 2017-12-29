@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef FREE_USED_LIST_H__DDK
 #define FREE_USED_LIST_H__DDK
 

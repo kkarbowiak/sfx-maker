@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef WAV_STRUCTURES_H__DDK
 #define WAV_STRUCTURES_H__DDK
 

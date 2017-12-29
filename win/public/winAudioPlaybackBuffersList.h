@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef WIN_AUDIO_PLAYBACK_BUFFERS_LIST_H__DDK
 #define WIN_AUDIO_PLAYBACK_BUFFERS_LIST_H__DDK
 

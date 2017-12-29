@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef WIN_EVENT_H__DDK
 #define WIN_EVENT_H__DDK
 

@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #include "winEvent.h"
 
 #include <cstddef> // NULL

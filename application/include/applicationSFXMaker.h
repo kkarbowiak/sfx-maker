@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef APPLICATION_SFX_MAKER_H__DDK
 #define APPLICATION_SFX_MAKER_H__DDK
 

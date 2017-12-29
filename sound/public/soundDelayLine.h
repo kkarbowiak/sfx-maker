@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef SOUND_DELAY_LINE_H__DDK
 #define SOUND_DELAY_LINE_H__DDK
 

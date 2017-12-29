@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef FILE_BINARY_FILE_H__DDK
 #define FILE_BINARY_FILE_H__DDK
 

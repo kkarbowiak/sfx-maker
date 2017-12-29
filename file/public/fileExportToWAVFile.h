@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef FILE_EXPORT_TO_WAV_FILE_H__DDK
 #define FILE_EXPORT_TO_WAV_FILE_H__DDK
 

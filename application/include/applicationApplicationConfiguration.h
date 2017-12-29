@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef APPLICATION_APLICATION_CONFIGURATION_H__DDK
 #define APPLICATION_APLICATION_CONFIGURATION_H__DDK
 

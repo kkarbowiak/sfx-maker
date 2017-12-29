@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef SOUND_OSCILLATOR_TRAPEZIUM_H__DDK
 #define SOUND_OSCILLATOR_TRAPEZIUM_H__DDK
 

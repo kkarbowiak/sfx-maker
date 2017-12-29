@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef MATH_CONSTANTS_H__DDK
 #define MATH_CONSTANTS_H__DDK
 
